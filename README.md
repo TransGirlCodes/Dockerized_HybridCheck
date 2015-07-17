@@ -1,4 +1,4 @@
-Dockerized HybridCheck Shiny App
+Dockerized HybridCheck R package
 ================================
 
 <div align="center">
