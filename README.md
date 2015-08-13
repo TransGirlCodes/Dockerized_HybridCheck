@@ -1,12 +1,6 @@
 Dockerized HybridCheck R package
 ================================
 
-<div align="center">
-<a href="http://ward9250.github.io/HybridCheck">
-<img src="http://ward9250.github.io/HybridCheck/img/HybridCheckLogo.png" height="250" alt="HybridCheck Logo Here"></img>
-</a>
-</div>
-
 This is the Dockerized R bundled with the R package [HybridCheck](http://ward9250.github.io/HybridCheck/index.html) and its
 dependencies.
 
